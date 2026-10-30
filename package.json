@@ -1,0 +1,25 @@
+{
+  "name": "nuvio-plugin-tr",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Türkçe Nuvio sağlayıcı eklentileri",
+  "scripts": {
+    "generate": "node tools/generate.js",
+    "build": "node tools/generate.js && node build.js --minify",
+    "build:dev": "node tools/generate.js && node build.js",
+    "start": "node server.js",
+    "test": "node test/url.test.js && node test/crypto.test.js",
+    "test:live": "node tools/live-test.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "buffer": "^6.0.3",
+    "cheerio-without-node-native": "^0.20.2",
+    "crypto-js": "^4.2.0",
+    "esbuild": "^0.20.0",
+    "quickjs-emscripten": "^0.31.0"
+  },
+  "license": "GPL-3.0"
+}
