@@ -1,6 +1,6 @@
 {
   "name": "nuvio-plugin-tr",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "description": "Türkçe Nuvio sağlayıcı eklentileri",
   "scripts": {
@@ -8,7 +8,7 @@
     "build": "node tools/generate.js && node build.js --minify",
     "build:dev": "node tools/generate.js && node build.js",
     "start": "node server.js",
-    "test": "node test/url.test.js && node test/crypto.test.js",
+    "test": "node test/url.test.js && node test/crypto.test.js && node test/atob.test.js",
     "test:live": "node tools/live-test.js"
   },
   "engines": {
