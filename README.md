@@ -43,7 +43,7 @@ Yeni eklenti için sağlayıcıyı `src/_core/providers/` altına ekleyin, kimli
 [Resmi doküman](https://github.com/yoruix/nuvio-providers/blob/template/DOCUMENTATION.md) Hermes'i anlatır; güncel Nuvio (`NuvioMedia/NuvioMobile`, `cmp-rewrite`) QuickJS kullanır. Kod iki ortama da uygun derlenir. QuickJS'te dikkat edilen kısıtlar:
 
 - Manifest üst seviyede `{ name, version, scrapers: [] }` olmalıdır; düz dizi kabul edilmez.
-- Eklenti 60 saniye sonra kesilir; `getStreams` 50 saniyede boş liste döner.
+- Eklenti 60 saniye sonra kesilir; `getStreams` 50 saniyede o ana kadar biten sonuçları döner.
 - Host `fetch`'i `AbortSignal`'i yok sayar, ağ hatasını `status: 0` ile bildirir ve gövdeyi belleğe alır.
 - Host `URL`'si geçersiz adreste hata fırlatmaz ve `searchParams` değişikliğini `href`'e yansıtmaz; bu yüzden `URL`, `cheerio`, `crypto-js` ve `Buffer` pakete gömülüdür.
 - Node ortamında `globalThis.crypto` bulunduğu için bazı hatalar yalnız QuickJS'te görünür; değişikliklerden sonra canlı testi çalıştırın.
