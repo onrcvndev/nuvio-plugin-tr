@@ -1,6 +1,6 @@
 {
   "name": "nuvio-plugin-tr",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "private": true,
   "description": "Türkçe Nuvio sağlayıcı eklentileri",
   "scripts": {
