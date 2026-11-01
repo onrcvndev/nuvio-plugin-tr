@@ -57,6 +57,7 @@ Yeni eklenti için sağlayıcıyı `src/_core/providers/` altına ekleyin, kimli
 | Anizium | Hesap girişi zorunlu |
 | RecTV | Uygulamaya gömülü anahtar gerekiyor |
 | DiziMom | DDizi ile aynı platform |
+| DramaDizilerim, DonghuaWorld | Kaldırıldı: içerikleri TMDB başlıklarıyla çoğunlukla eşleşmiyor, sonuç bulamadan uzun süre bekletiyor |
 | SelçukSports, ZirveTV, BeyazElma | Canlı yayınlar TMDB tabanlı `getStreams` modeline uymuyor |
 
 ## Lisans
