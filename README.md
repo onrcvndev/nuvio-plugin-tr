@@ -60,6 +60,12 @@ Yeni eklenti için sağlayıcıyı `src/_core/providers/` altına ekleyin, kimli
 | DramaDizilerim, DonghuaWorld | Kaldırıldı: içerikleri TMDB başlıklarıyla çoğunlukla eşleşmiyor, sonuç bulamadan uzun süre bekletiyor |
 | SelçukSports, ZirveTV, BeyazElma | Canlı yayınlar TMDB tabanlı `getStreams` modeline uymuyor |
 
+## Destek
+
+Eklentileri beğendiyseniz [Kreosus üzerinden destek olabilirsiniz](https://kreosus.com/onrcvndev?utm_source=kreosus_embed&utm_medium=readme&utm_campaign=onrcvndev).
+
+Destek bağlantısı 3 Kasım 2026 12:15'e (TSİ) kadar akış listelerinin sonunda da görünür; kalan süre satırda yazar ve süre dolunca kendiliğinden kalkar. Nuvio eklenti sonucunda dış bağlantı açamadığı için satıra basmak oynatıcıyı açar ve video başlamaz; adresi tarayıcıya yazarak açın.
+
 ## Lisans
 
 GPL-3.0. Derleme betiği ve yerel sunucu [nuvio-providers](https://github.com/yoruix/nuvio-providers/tree/template) şablonundan uyarlanmıştır.
