@@ -48,18 +48,6 @@ Yeni eklenti için sağlayıcıyı `src/_core/providers/` altına ekleyin, kimli
 - Host `URL`'si geçersiz adreste hata fırlatmaz ve `searchParams` değişikliğini `href`'e yansıtmaz; bu yüzden `URL`, `cheerio`, `crypto-js` ve `Buffer` pakete gömülüdür.
 - Node ortamında `globalThis.crypto` bulunduğu için bazı hatalar yalnız QuickJS'te görünür; değişikliklerden sonra canlı testi çalıştırın.
 
-## Eklenmeyen kaynaklar
-
-| Kaynak | Neden |
-| --- | --- |
-| YabancıDizi | `/ajax/service` ucu her istemciye 520 döndürüyor |
-| SezonlukDizi, AnimeciX, TRanimaci | reCAPTCHA/Turnstile doğrulaması gerekiyor |
-| Anizium | Hesap girişi zorunlu |
-| RecTV | Uygulamaya gömülü anahtar gerekiyor |
-| DiziMom | DDizi ile aynı platform |
-| DramaDizilerim, DonghuaWorld | Kaldırıldı: içerikleri TMDB başlıklarıyla çoğunlukla eşleşmiyor, sonuç bulamadan uzun süre bekletiyor |
-| SelçukSports, ZirveTV, BeyazElma | Canlı yayınlar TMDB tabanlı `getStreams` modeline uymuyor |
-
 ## Destek
 
 Eklentileri beğendiyseniz [Kreosus üzerinden destek olabilirsiniz](https://kreosus.com/onrcvndev?utm_source=kreosus_embed&utm_medium=readme&utm_campaign=onrcvndev).

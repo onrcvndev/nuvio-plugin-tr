@@ -9,3 +9,6 @@ ARCHITECTURE.md
 .claude/
 .pi/
 .serena/
+
+# Kaynak kod depoda tutulmaz; yalnız derlenmiş eklentiler yayımlanır.
+src/
