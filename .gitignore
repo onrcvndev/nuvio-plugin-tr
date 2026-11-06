@@ -12,3 +12,8 @@ ARCHITECTURE.md
 
 # Kaynak kod depoda tutulmaz; yalnız derlenmiş eklentiler yayımlanır.
 src/
+providers.config.js
+build.js
+server.js
+tools/
+test/
