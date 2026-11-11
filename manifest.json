@@ -1,6 +1,6 @@
 {
   "name": "CVNFLIX Türkçe",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "Türkçe film, dizi, anime ve Asya içerik kaynakları",
   "author": "onrcvndev",
   "scrapers": [
@@ -8,7 +8,7 @@
       "id": "dizipal",
       "name": "Dizipal",
       "description": "Yerli ve yabancı dizi ve filmler",
-      "version": "1.0.12",
+      "version": "1.0.13",
       "author": "onrcvndev",
       "supportedTypes": [
         "movie",
@@ -32,7 +32,7 @@
       "id": "dizipal-alternatif",
       "name": "Dizipal Alternatif",
       "description": "Dizipal ikinci adresi, dizi ve filmler",
-      "version": "1.0.12",
+      "version": "1.0.13",
       "author": "onrcvndev",
       "supportedTypes": [
         "movie",
@@ -56,7 +56,7 @@
       "id": "dizipalhub",
       "name": "DiziPalHub",
       "description": "DiziPal Orjinal yabancı dizi arşivi",
-      "version": "1.0.12",
+      "version": "1.0.13",
       "author": "onrcvndev",
       "supportedTypes": [
         "tv"
@@ -79,7 +79,7 @@
       "id": "hdfilmcehennemi",
       "name": "HDFilmCehennemi",
       "description": "Film ve dizi arşivi",
-      "version": "1.0.12",
+      "version": "1.0.13",
       "author": "onrcvndev",
       "supportedTypes": [
         "movie",
@@ -103,7 +103,7 @@
       "id": "filmmakinesi",
       "name": "FilmMakinesi",
       "description": "Film ve dizi arşivi",
-      "version": "1.0.12",
+      "version": "1.0.13",
       "author": "onrcvndev",
       "supportedTypes": [
         "movie",
@@ -127,7 +127,7 @@
       "id": "dizilla",
       "name": "Dizilla",
       "description": "Yabancı diziler ve sezonluk seriler",
-      "version": "1.0.12",
+      "version": "1.0.13",
       "author": "onrcvndev",
       "supportedTypes": [
         "tv"
@@ -150,7 +150,7 @@
       "id": "webteizle",
       "name": "WebteIzle",
       "description": "Türkçe altyazılı ve dublajlı filmler",
-      "version": "1.0.12",
+      "version": "1.0.13",
       "author": "onrcvndev",
       "supportedTypes": [
         "movie"
@@ -173,7 +173,7 @@
       "id": "dizibox",
       "name": "DiziBox",
       "description": "Yabancı dizi arşivi",
-      "version": "1.0.12",
+      "version": "1.0.13",
       "author": "onrcvndev",
       "supportedTypes": [
         "tv"
@@ -196,7 +196,7 @@
       "id": "dizisol",
       "name": "Dizisol",
       "description": "Film ve dizi arşivi",
-      "version": "1.0.12",
+      "version": "1.0.13",
       "author": "onrcvndev",
       "supportedTypes": [
         "movie",
@@ -220,7 +220,7 @@
       "id": "ddizi",
       "name": "DDizi",
       "description": "Geniş arşivli dizi, film ve anime",
-      "version": "1.0.12",
+      "version": "1.0.13",
       "author": "onrcvndev",
       "supportedTypes": [
         "movie",
@@ -244,7 +244,7 @@
       "id": "diziyou",
       "name": "DiziYou",
       "description": "Türkçe dublaj ve altyazılı yabancı diziler",
-      "version": "1.0.12",
+      "version": "1.0.13",
       "author": "onrcvndev",
       "supportedTypes": [
         "tv"
@@ -267,7 +267,7 @@
       "id": "dizibol",
       "name": "DiziBol",
       "description": "Yabancı dizi arşivi",
-      "version": "1.0.12",
+      "version": "1.0.13",
       "author": "onrcvndev",
       "supportedTypes": [
         "tv"
@@ -290,7 +290,7 @@
       "id": "dizigom",
       "name": "Dizigom",
       "description": "Yabancı ve Asya dizileri",
-      "version": "1.0.12",
+      "version": "1.0.13",
       "author": "onrcvndev",
       "supportedTypes": [
         "tv"
@@ -313,7 +313,7 @@
       "id": "dizipod",
       "name": "Dizipod",
       "description": "Yabancı ve Asya dizileri ile filmler",
-      "version": "1.0.12",
+      "version": "1.0.13",
       "author": "onrcvndev",
       "supportedTypes": [
         "movie",
@@ -337,7 +337,7 @@
       "id": "trdiziizle",
       "name": "TrDiziİzle",
       "description": "Yerli diziler ve Türkçe yayınlar",
-      "version": "1.0.12",
+      "version": "1.0.13",
       "author": "onrcvndev",
       "supportedTypes": [
         "tv"
@@ -360,7 +360,7 @@
       "id": "dizikorea",
       "name": "DiziKorea",
       "description": "Türkçe altyazılı Kore dizi ve filmleri",
-      "version": "1.0.12",
+      "version": "1.0.13",
       "author": "onrcvndev",
       "supportedTypes": [
         "movie",
@@ -384,7 +384,7 @@
       "id": "diziasia",
       "name": "DiziAsia",
       "description": "Asya, Çin ve Tayland dizileri",
-      "version": "1.0.12",
+      "version": "1.0.13",
       "author": "onrcvndev",
       "supportedTypes": [
         "tv"
@@ -407,7 +407,7 @@
       "id": "asyawatch",
       "name": "AsyaWatch",
       "description": "Türkçe altyazılı ve dublajlı Asya içerikleri",
-      "version": "1.0.12",
+      "version": "1.0.13",
       "author": "onrcvndev",
       "supportedTypes": [
         "movie",
@@ -431,7 +431,7 @@
       "id": "webdramaturkey",
       "name": "WebDramaTurkey",
       "description": "Çin ve Kore dizi ve filmleri, donghua",
-      "version": "1.0.12",
+      "version": "1.0.13",
       "author": "onrcvndev",
       "supportedTypes": [
         "movie",
@@ -455,7 +455,7 @@
       "id": "asyaanimeleri",
       "name": "AsyaAnimeleri",
       "description": "Türkçe altyazılı Çin ve Asya animeleri",
-      "version": "1.0.12",
+      "version": "1.0.13",
       "author": "onrcvndev",
       "supportedTypes": [
         "tv"
@@ -478,7 +478,7 @@
       "id": "animexe",
       "name": "Animexe",
       "description": "Türkçe altyazılı Japon animeleri",
-      "version": "1.0.12",
+      "version": "1.0.13",
       "author": "onrcvndev",
       "supportedTypes": [
         "tv"
@@ -501,7 +501,7 @@
       "id": "anizm",
       "name": "Anizm",
       "description": "Türkçe altyazılı anime arşivi",
-      "version": "1.0.12",
+      "version": "1.0.13",
       "author": "onrcvndev",
       "supportedTypes": [
         "tv"
@@ -524,7 +524,7 @@
       "id": "hdfilmizlebest",
       "name": "HDFilmizleBest",
       "description": "Türkçe dublaj ve altyazılı filmler",
-      "version": "1.0.12",
+      "version": "1.0.13",
       "author": "onrcvndev",
       "supportedTypes": [
         "movie"
@@ -547,7 +547,7 @@
       "id": "powersinema",
       "name": "PowerSinema",
       "description": "IMDb kimlikli Türkçe film listesi",
-      "version": "1.0.12",
+      "version": "1.0.13",
       "author": "onrcvndev",
       "supportedTypes": [
         "movie"
